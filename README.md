@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @rahulpanchal0106
-- 👀 I’m interested in front-end web development 
-- 🌱 I’m currently learning CSS frameworks (Bootstrap for now)
-- 💞️ I’m looking to collaborate on some front-end projects.
-- 📫 You can reach me by filling the contact form in my repository (offcourse it has no back-end, but it has all my social links)
+<imh src="http://www.reactiongifs.com/ralph-wiggum-wave/" width="300px">
