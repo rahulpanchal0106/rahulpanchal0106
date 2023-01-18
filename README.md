@@ -1,1 +1,1 @@
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulpanchal0106&hide=contribs,prs)
+![rahulpanchal0106's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulpanchal0106&show_icons=true)
