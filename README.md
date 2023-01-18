@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <div>
-  [![Top Langs](https://[github-readme-stats.vercel.app](https://github-readme-stats-rahulpanchal0106.vercel.app/)/api/top-langs/?username=rahulpanchal0106)](https://github.com/rahulpanchal0106/github-readme-stats)
-  ![rahulpanchal0106's GitHub stats](https://[github-readme-stats.vercel.app](https://github-readme-stats-rahulpanchal0106.vercel.app/)/api?username=rahulpanchal0106&?theme=dark_icons=true)
+  ![rahulpanchal0106's GitHub stats](github-readme-stats-beta-six-14.vercel.app/api?username=rahulpanchal0106&count_private=true)
+  
 </div>
