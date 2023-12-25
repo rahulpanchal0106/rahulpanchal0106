@@ -2,6 +2,6 @@
 
 ![Alt Text](https://wakatime.com/share/@rahul_panchal/a00bcbf2-6d50-488d-a70e-e628d0defdf7.png)
 
-[<img src="https://wakatime.com/share/@rahul_panchal/59874a08-8f28-413e-89b2-d880a86e7638.png" style="border-radius:10px" alt="Alt Text" width="500"/>](https://wakatime.com/)
+[<img src="https://wakatime.com/share/@rahul_panchal/59874a08-8f28-413e-89b2-d880a86e7638.png" alt="My coding languages stats" width="500" style="border-radius:10px"/>](https://wakatime.com/)
 
 
