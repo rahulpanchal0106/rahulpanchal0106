@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://media.giphy.com/media/3o7bu5kN3xCjquOG6k/giphy.gif" alt="Silicon Valley GIF" width="480"/>
+</p>
+
+<p align="center">
   <a href="https://wakatime.com/@eeb3dfb4-6a99-4673-8148-202e3cd8f6d2">
     <img src="https://wakatime.com/badge/user/eeb3dfb4-6a99-4673-8148-202e3cd8f6d2.svg" alt="WakaTime Badge" width="300"/>
   </a>
