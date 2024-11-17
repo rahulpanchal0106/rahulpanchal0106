@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7bu5kN3xCjquOG6k/giphy.gif" alt="Silicon Valley GIF" width="480"/>
+  <img src="https://media.gifdb.com/pompo-the-cinephile-intense-typing-fast-a3gxlpppgfe3c54t.gif" alt="nnn00" width="480"/>
 </p>
 
 <p align="center">
