@@ -16,6 +16,6 @@
 
 <p align="center">
   <a href="https://wakatime.com/@eeb3dfb4-6a99-4673-8148-202e3cd8f6d2">
-    <img src="https://wakatime.com/share/@rahul_panchal/4e7096f8-86c1-4304-ae1c-6fdd2a7647d3.svg" alt="Alt Text" width="500"/>
+    <img src="https://wakatime.com/share/@rahul_panchal/e75a2603-6e07-4484-aad9-bfed3fad81b4.svg" alt="Alt Text" width="500"/>
   </a>
 </p>
